@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+<!-- ## About Me -->
 
 Welcome! I am a PhD candidate at the University of Chicago Harris School of Public Policy. My research uses applied microeconomics to study the consequences and political economy of natural resource management, especially in developing countries. 
 
