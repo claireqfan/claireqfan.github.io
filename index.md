@@ -8,6 +8,8 @@ Welcome! I am a PhD candidate at the University of Chicago Harris School of Publ
 
 My work has been supported by the NSF Graduate Research Fellowship and EPIC DRW Fellowship.
 
+**I am on the 2025-26 job market.**
+
 
 <!-- 
 -->
