@@ -4,7 +4,7 @@ layout: homepage
 
 <!-- ## About Me -->
 
-Welcome! I am a PhD candidate at the University of Chicago Harris School of Public Policy. My research uses applied microeconomics to study the consequences and political economy of natural resource management, especially in developing countries. 
+Welcome! I am a PhD candidate at the University of Chicago Harris School of Public Policy. My research uses applied microeconomics to study the consequences and political economy of natural resource management, especially in developing countries. Please reach out if you'd like to discuss research!
 
 My work has been supported by the NSF Graduate Research Fellowship and EPIC DRW Fellowship.
 
@@ -16,7 +16,14 @@ My work has been supported by the NSF Graduate Research Fellowship and EPIC DRW 
 
 ## Research 
 
+### Working Papers
+
+{% include_relative _includes/publications.md %}
+
 ### Work in Progress
 
 {% include_relative _includes/wip.md %}
 
+### Teaching
+
+{% include_relative _includes/wip.md %}

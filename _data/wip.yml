@@ -1,14 +1,9 @@
 main:
-
   - id: 1
-    title: "Dam Thy Neighbor: Private and International Consequences of Impounding Rivers"
-    #authors: 
-
-  - id: 2
     title: "Environmental Degradation in One's Own Backyard: Who Gains and Who Loses from Sand Mining in India"
     authors: with <a href="https://harris.uchicago.edu/directory/sushant-banjara">Sushant Banjara</a> and <a href="https://sites.google.com/view/varunk">Varun K</a>
 
-  - id: 3
+  - id: 2
     title: Rural Household Water Access in India
     authors: with <a href="https://devikalakhote.github.io/">Devika Lakhote</a>
 

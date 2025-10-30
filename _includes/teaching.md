@@ -1,12 +1,10 @@
 
 <ul style="2px 0px -15px; margin-left: -20px;">
-  <li><autocolor>Average course rating: 4.75/5</autocolor></li>
-  <li><autocolor>Teaching fellow, Introduction to Mathematical and Computational Economics (PhD), Boston University, Boston, 2023</autocolor></li>
-  <li><autocolor>Teaching fellow, Elementary Mathematical Economics (Master's), Boston University, Boston, 2023</autocolor></li>
-  <li><autocolor>Teaching fellow, Intermediate Macroeconomics, Boston University, Boston, 2021</autocolor></li>
-  <li><autocolor>Teaching fellow, Money and Banking, Boston University, Boston, Spring 2021</autocolor></li>
-  <li><autocolor>Teaching assistant, Theory of Probability and Statistics, University of Minnesota,
-  Minneapolis, Spring 2015</autocolor></li> 
+  <li><autocolor>TA, Applied Econometrics III (PhD), 2022, 2023, 2024 </autocolor></li>
+  <li><autocolor>Head TA, Microeconomics I (Master’s), 2021, 2023 </autocolor></li>
+  <li><autocolor>TA, Science of Policymaking in International Policy and Development (Master’s), 2024 </autocolor></li>
+  <li><autocolor>TA, Economics of Regulation (Master’s), 2023</autocolor></li>
+  <li><autocolor>TA, <a href="https://www.chicagobooth.edu/expanding-discovery-in-economics">Expanding Diversity in Economics</a> (Undergrad), 2024</autocolor></li> 
 </ul>
 
 
