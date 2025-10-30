@@ -24,3 +24,6 @@ My work has been supported by the NSF Graduate Research Fellowship and EPIC DRW 
 
 {% include_relative _includes/wip.md %}
 
+### Teaching
+
+{% include_relative _includes/teaching.md %}
