@@ -1,6 +1,7 @@
 main:
   - id: 1
-    title: "Dam Thy Neighbor: International Relations and the Externalities of Impounding Rivers (Job market paper) [draft coming soon]"
+    title: "Dam Thy Neighbor: International Relations and the Externalities of Impounding Rivers (Job market paper)"
+    draft: https://drive.google.com/file/d/1uj-ZIci4j6NW9B70TmDU3TfMuxejelgr/view?usp=sharing
     abstract: "Using the context of dams around the globe, this paper provides the first quantification of how international relations shape transboundary environmental externalities. Leveraging a novel measure of dam exposure in a difference-in-differences framework, I find that dams lead to reductions in downstream growth in nighttime lights, both within and across borders, on the order of 2% of average growth over 2001-2013. Next, I compile quantitative measures of bilateral relations motivated by theories of cross-country cooperation. I find that the transboundary externalities of dams are driven by country pairs in which the downstream country has high coordination costs with or little geopolitical leverage on its upstream neighbor. When coordination costs are low, the externalities are mitigated to null. Among various measures of bilateral relations, joint membership in international institutions most strongly predicts the mitigation of transboundary externalities. As recent dams have predominantly been built in developing regions, these results uncover the role played by international relations in economic development, through the management of transboundary natural resources."
     
   
